@@ -1,0 +1,29 @@
+h2{
+	
+}
+p{
+	background-color:#4D836F;
+}
+img{
+	float:left;
+width:120px;
+height:120px;
+margin:30px;
+border-radius:50%;
+box-shadow:black 11px 8px 6px;
+transition: all 1s;
+}
+img:hover{
+	transform:scale(1.5);
+}
+a{
+	background-color:#E3E3E3;
+}
+h3{
+	font-size: 50px;
+	color:#069;
+	
+}
+img{
+	float:left;
+}

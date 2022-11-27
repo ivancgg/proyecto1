@@ -1,0 +1,37 @@
+body{
+	background-size:cover;
+	
+}
+#caja1
+{
+font-size:15px;
+color:#blue;
+float:left;
+}
+p{
+	background-color:#287D5E;
+	
+}
+
+img{
+float:left;
+width:150px;
+height:150px;
+margin:30px;
+border-radius:50%;
+box-shadow:black 11px 8px 6px;
+transition: all 1s;
+
+}
+
+}
+
+#caja2{
+	float:left;
+	
+}
+#caja4
+{
+	float:left;
+	
+}
